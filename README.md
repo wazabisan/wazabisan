@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @wazabisan
+- 👋 Hi, I’m Tinn C
 - 👀 I’m interested in video game developing
 - 🌱 I’m currently learning godot and unity
-- 💞️ I’m looking to collaborate on video game project
-
+- 🌐 I'm learning how to be good fullstack dev
 
 <!---
 wazabisan/wazabisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
